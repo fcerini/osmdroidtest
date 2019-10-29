@@ -1,2 +1,2 @@
-# osmdroidtest
-Prueba basica con osmdroid
+# osmdroid test
+Basic example in kotlin
